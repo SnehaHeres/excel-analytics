@@ -1,0 +1,24 @@
+{
+  "name": "-y",
+  "version": "1.0.0",
+  "description": "A Test repo to configure nodejs and mongodb",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnehaHeres/excel-analytics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnehaHeres/excel-analytics/issues"
+  },
+  "homepage": "https://github.com/SnehaHeres/excel-analytics#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.1"
+  }
+}
